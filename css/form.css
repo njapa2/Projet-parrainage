@@ -1,0 +1,50 @@
+/* CSS POUR LES ELEMENTS DU FORMULAIRE */
+.help-inline
+{
+    color: #A94442;
+}
+.btn.btn-success
+{
+    background-color: #1690A7;
+}
+.btn.btn-primary
+{
+    background-color: #555 ;
+}
+body
+{
+    background-color: #1690A7;
+}
+form
+{
+    background: #fff;
+    height: 100%;
+    padding: 20px;
+}
+.container
+{
+    width: 70%;
+    height: 800px;
+}
+h2
+{
+    color: #fff;
+}
+h3
+{
+    color: #fff !important;
+}
+.container>p
+{
+    color: #fff;
+}
+.container form .form-group span
+{
+    background-color: #F2DEDE;
+    padding: 5px;
+    margin-top: 2px;
+}
+.form-group input
+{
+    margin-bottom: 5px;
+}
